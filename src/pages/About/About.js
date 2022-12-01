@@ -19,7 +19,7 @@ const About = () => {
                             Books is the best <br />
                             choice for the<br />
                             learners</h1>
-                        <p className="py-6">I believeee in the magic of books. I believe that during certain periods in our lives we are drawn to particular books–whether it’s strolling down the aisles of a bookshop with no idea whatsoever of what it is that we want to read and suddenly finding the most perfect, most wonderfully suitable book staring us right in the face. Unblinking. Or a chance meeting with a stranger or friend who recommends a book we would never ordinarily reach for. Books have the ability to find their own way into our lives </p>
+                        <p className="py-6">I believee in the magic of books. I believe that during certain periods in our lives we are drawn to particular books–whether it’s strolling down the aisles of a bookshop with no idea whatsoever of what it is that we want to read and suddenly finding the most perfect, most wonderfully suitable book staring us right in the face. Unblinking. Or a chance meeting with a stranger or friend who recommends a book we would never ordinarily reach for. Books have the ability to find their own way into our lives </p>
 
                     </div>
                 </div>
